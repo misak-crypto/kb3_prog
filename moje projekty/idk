@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Můj první web</title>
+    </head>
+    <body>
+        <p>Toto je basic text!</p>
+        <p>Toto je basic text!</p>
+        <img src="tree.web.jpg"
+            alt="fotka stromu"
+            width="250px"
+            >
+            <p>repozitar je <a href="https://github.com/misak-crypto/kb3_prog">dostupny zde</a>
+    </body>
+</hmtl>
+ 
